@@ -42,7 +42,7 @@
 
 <p align="center">
   <b>Catch all Infosys Springboard Solutions branch-wise here:</b><br><br>
-  👉 <a href="https://github.com/DevGoyalG/NIET-Infosys-Springboard" target="_blank"><b>Click Here for Infosys Springboard Solutions 🚀</b></a>
+  👉 <a href="https://github.com/DevGoyalG/NIET-Infosys-Springboard" target="_blank"><b>Click Here for Infosys Springboard Solutions</b></a> 👈
 </p>
 
 ---
