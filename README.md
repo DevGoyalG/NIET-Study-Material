@@ -15,7 +15,7 @@
 
 | Branch Name                                               | Access Link  |
 |-----------------------------------------------------------|--------------|
-| CSE (Artificial Intelligence and Machine Learning)        | [Click Here]() |
+| CSE (Artificial Intelligence and Machine Learning)        | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/CSE%20(Artificial%20Intelligence%20and%20Machine%20Learning)/Third%20Year) |
 | CSE (Artificial Intelligence)                             | [Click Here]() |
 | CSE (Cyber Security)                                      | [Click Here]() |
 | CSE (Data Science)                                        | [Click Here]() |
