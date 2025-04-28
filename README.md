@@ -23,11 +23,11 @@
 
 | Branch Name                                               | Access Link  |
 |-----------------------------------------------------------|--------------|
-| CSE (Artificial Intelligence and Machine Learning)        | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/CSE%20(Artificial%20Intelligence%20and%20Machine%20Learning)/Third%20Year) |
-| CSE (Artificial Intelligence)                             | [Click Here]() |
+| CSE (Artificial Intelligence and Machine Learning)        | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/CSE%20(Artificial%20Intelligence%20and%20Machine%20Learning)) |
+| CSE (Artificial Intelligence)                             | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/CSE%20(Artificial%20Intelligence)) |
 | CSE (Cyber Security)                                      | [Click Here]() |
 | CSE (Data Science)                                        | [Click Here]() |
-| CSE (Internet of Things)                                  | [Click Here]() |
+| CSE (Internet of Things)                                  | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/CSE%20(Internet%20of%20Things)) |
 | Computer Science & Business Systems                       | [Click Here]() |
 | Computer Science & Engineering (Regional)                 | [Click Here]() |
 | Computer Science & Engineering                            | [Click Here]() |
