@@ -23,18 +23,19 @@
 
 | Branch Name                                               | Access Link  |
 |-----------------------------------------------------------|--------------|
+| Biotechnology                                             | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Biotechnology) |
 | CSE (Artificial Intelligence and Machine Learning)        | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/CSE%20(Artificial%20Intelligence%20and%20Machine%20Learning)) |
 | CSE (Artificial Intelligence)                             | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/CSE%20(Artificial%20Intelligence)) |
-| CSE (Cyber Security)                                      | [Click Here]() |
-| CSE (Data Science)                                        | [Click Here]() |
+| CSE (Cyber Security)                                      | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/CSE%20(Cyber%20Security)) |
+| CSE (Data Science)                                        | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/CSE%20(Data%20Science)) |
 | CSE (Internet of Things)                                  | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/CSE%20(Internet%20of%20Things)) |
-| Computer Science & Business Systems                       | [Click Here]() |
-| Computer Science & Engineering (Regional)                 | [Click Here]() |
-| Computer Science & Engineering                            | [Click Here]() |
-| Computer Science                                           | [Click Here]() |
-| Electronics & Communication Engineering                   | [Click Here]() |
-| Information Technology                                    | [Click Here]() |
-| Mechanical Engineering                                    | [Click Here]() |
+| Computer Science & Business Systems                       | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Computer%20Science%20%26%20Business%20Systems) |
+| Computer Science & Engineering (Regional)                 | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Computer%20Science%20%26%20Engineering%20(Regional)) |
+| Computer Science & Engineering                            | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Computer%20Science%20%26%20Engineering) |
+| Computer Science                                          | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Computer%20Science) |
+| Electronics & Communication Engineering                   | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Electronics%20%26%20Communication%20Engineering) |
+| Information Technology                                    | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Information%20Technology) |
+| Mechanical Engineering                                    | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Mechanical%20Engineering) |
 
 ---
 
