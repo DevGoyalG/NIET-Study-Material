@@ -76,6 +76,17 @@
 </a>
 
 ---
+
+### 🙏 Special Thanks
+
+A special thanks to the following people for their valuable support and contributions:
+
+- Rishi Ranjan
+- Parul Goel
+- Suryansh Gupta
+- Aditya Kumar Jha
+---
+
 <p align="center">
   <b>Thank you for visiting! Happy Learning 🚀</b>
 </p>
