@@ -94,6 +94,7 @@ A special thanks to the following people for their valuable support and contribu
 - Parul Goel
 - Suryansh Gupta
 - Aditya Kumar Jha
+- Prachi Shreelochan
 ---
 
 <p align="center">
