@@ -88,7 +88,7 @@ If you want updates on **"Internships, Jobs, Events, and Hackathons"**, you can 
 
 ### 🙏 Special Thanks
 
-A special thanks to the following people for their valuable support and contributions:
+A special thanks to the following peoples for their valuable support and contributions:
 
 - Rishi Ranjan
 - Parul Goel
