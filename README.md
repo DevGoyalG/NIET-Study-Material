@@ -21,8 +21,8 @@
 
 <h2 align="center">🔷 Available Study Materials 🔷</h2>
 
-| Branch Name                                               | Access Link  |
-|-----------------------------------------------------------|--------------|
+| Branch Name                                               | Access Link   |
+|-----------------------------------------------------------|---------------|
 | Biotechnology                                             | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Biotechnology) |
 | CSE (Artificial Intelligence and Machine Learning)        | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/CSE%20(Artificial%20Intelligence%20and%20Machine%20Learning)) |
 | CSE (Artificial Intelligence)                             | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/CSE%20(Artificial%20Intelligence)) |
