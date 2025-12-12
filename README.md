@@ -90,12 +90,12 @@ If you want updates on **"Internships, Jobs, Events, and Hackathons"**, you can 
 
 A special thanks to the following peoples for their valuable support and contributions:
 
-- Rishi Ranjan
-- Parul Goel
-- Suryansh Gupta
-- Aditya Kumar Jha
-- Prachi Shreelochan
-- Uttam Kumar
+- Rishi Ranjan (CSE - IoT)
+- Parul Goel (CSE - DS)
+- Suryansh Gupta (CS)
+- Aditya Kumar Jha (CSE - R)
+- Prachi Shreelochan (CSE - AIML)
+- Uttam Kumar (CSE - AIML)
 ---
 
 <p align="center">
