@@ -21,29 +21,98 @@
 
 <h2 align="center">🔷 Available Study Materials 🔷</h2>
 
-| Branch Name                                               | Access Link   |
-|-----------------------------------------------------------|---------------|
-| Biotechnology                                             | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Biotechnology) |
-| CSE (Artificial Intelligence and Machine Learning)        | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/CSE%20(Artificial%20Intelligence%20and%20Machine%20Learning)) |
-| CSE (Artificial Intelligence)                             | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/CSE%20(Artificial%20Intelligence)) |
-| CSE (Cyber Security)                                      | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/CSE%20(Cyber%20Security)) |
-| CSE (Data Science)                                        | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/CSE%20(Data%20Science)) |
-| CSE (Internet of Things)                                  | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/CSE%20(Internet%20of%20Things)) |
-| Computer Science & Business Systems                       | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Computer%20Science%20%26%20Business%20Systems) |
-| Computer Science & Engineering (Regional)                 | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Computer%20Science%20%26%20Engineering%20(Regional)) |
-| Computer Science & Engineering                            | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Computer%20Science%20%26%20Engineering) |
-| Computer Science                                          | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Computer%20Science) |
-| Electronics & Communication Engineering                   | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Electronics%20%26%20Communication%20Engineering) |
-| Information Technology                                    | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Information%20Technology) |
-| Mechanical Engineering                                    | [Click Here](https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Mechanical%20Engineering) |
+<div align="center">
+
+<table>
+<tr>
+<th>Branch Name</th>
+<th>Access Link</th>
+</tr>
+
+<tr>
+<td>Biotechnology</td>
+<td><a href="https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Biotechnology">Click Here</a></td>
+</tr>
+
+<tr>
+<td>CSE (Artificial Intelligence and Machine Learning)</td>
+<td><a href="https://github.com/DevGoyalG/NIET-Study-Material/tree/main/CSE%20(Artificial%20Intelligence%20and%20Machine%20Learning)">Click Here</a></td>
+</tr>
+
+<tr>
+<td>CSE (Artificial Intelligence)</td>
+<td><a href="https://github.com/DevGoyalG/NIET-Study-Material/tree/main/CSE%20(Artificial%20Intelligence)">Click Here</a></td>
+</tr>
+
+<tr>
+<td>CSE (Cyber Security)</td>
+<td><a href="https://github.com/DevGoyalG/NIET-Study-Material/tree/main/CSE%20(Cyber%20Security)">Click Here</a></td>
+</tr>
+
+<tr>
+<td>CSE (Data Science)</td>
+<td><a href="https://github.com/DevGoyalG/NIET-Study-Material/tree/main/CSE%20(Data%20Science)">Click Here</a></td>
+</tr>
+
+<tr>
+<td>CSE (Internet of Things)</td>
+<td><a href="https://github.com/DevGoyalG/NIET-Study-Material/tree/main/CSE%20(Internet%20of%20Things)">Click Here</a></td>
+</tr>
+
+<tr>
+<td>Computer Science & Business Systems</td>
+<td><a href="https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Computer%20Science%20%26%20Business%20Systems">Click Here</a></td>
+</tr>
+
+<tr>
+<td>Computer Science & Engineering (Regional)</td>
+<td><a href="https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Computer%20Science%20%26%20Engineering%20(Regional)">Click Here</a></td>
+</tr>
+
+<tr>
+<td>Computer Science & Engineering</td>
+<td><a href="https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Computer%20Science%20%26%20Engineering">Click Here</a></td>
+</tr>
+
+<tr>
+<td>Computer Science</td>
+<td><a href="https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Computer%20Science">Click Here</a></td>
+</tr>
+
+<tr>
+<td>Electronics & Communication Engineering</td>
+<td><a href="https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Electronics%20%26%20Communication%20Engineering">Click Here</a></td>
+</tr>
+
+<tr>
+<td>Information Technology</td>
+<td><a href="https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Information%20Technology">Click Here</a></td>
+</tr>
+
+<tr>
+<td>Mechanical Engineering</td>
+<td><a href="https://github.com/DevGoyalG/NIET-Study-Material/tree/main/Mechanical%20Engineering">Click Here</a></td>
+</tr>
+
+</table>
+
+</div>
 
 ---
 
-<h2 align="center">🔶 Looking for NIET INFOSYS SPRINGBOARD ANSWERS ? 🔶</h2>
+<h2 align="center">🔶 Looking for NIET INFOSYS SPRINGBOARD SOLUTIONS ? 🔶</h2>
 
 <p align="center">
   <b>Catch all Infosys Springboard Solutions branch-wise here:</b><br><br>
   👉 <a href="https://github.com/DevGoyalG/NIET-Infosys-Springboard" target="_blank"><b>Click Here for Infosys Springboard Solutions</b></a> 👈
+</p>
+
+---
+<h2 align="center">🎓 Looking for NIET On-Campus Placement Tracker (Batch 2026) ? 🎓</h2>
+
+<p align="center">
+  <b>Track all on-campus placements for Batch 2026 here:</b><br><br>
+  👉 <a href="https://github.com/DevGoyalG/NIET-Placement" target="_blank"><b>Click Here for Placement Tracker</b></a> 👈
 </p>
 
 ---
@@ -90,12 +159,12 @@ If you want updates on **"Internships, Jobs, Events, and Hackathons"**, you can 
 
 A special thanks to the following peoples for their valuable support and contributions:
 
-- Rishi Ranjan
-- Parul Goel
-- Suryansh Gupta
-- Aditya Kumar Jha
-- Prachi Shreelochan
-- Uttam Kumar
+- Rishi Ranjan (CSE - IoT)
+- Parul Goel (CSE - DS)
+- Suryansh Gupta (CS)
+- Aditya Kumar Jha (CSE - R)
+- Prachi Shreelochan (CSE - AIML)
+- Uttam Kumar (CSE - AIML)
 ---
 
 <p align="center">
