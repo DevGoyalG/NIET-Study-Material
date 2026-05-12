@@ -160,11 +160,15 @@ If you want updates on **"Internships, Jobs, Events, and Hackathons"**, you can 
 A special thanks to the following peoples for their valuable support and contributions:
 
 - Rishi Ranjan (CSE - IoT)
-- Parul Goel (CSE - DS)
+- Parul Goel (CSE - AI)
 - Suryansh Gupta (CS)
 - Aditya Kumar Jha (CSE - R)
 - Prachi Shreelochan (CSE - AIML)
 - Uttam Kumar (CSE - AIML)
+- Vaishnavi Sharma (CS)
+- Shahid Mansuri (CSE - AI)
+- Ganga Soni (IT)
+
 ---
 
 <p align="center">
